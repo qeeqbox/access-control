@@ -54,4 +54,4 @@ Access based on the responsibilities assigned to a user or users
 e1fa805d-5936-4287-9e6d-2a252840792f
 
 ## References
-- https://en.wikipedia.org/wiki/Digital_rights_management
+- https://en.wikipedia.org/wiki/Access_control
