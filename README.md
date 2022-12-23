@@ -18,10 +18,12 @@ Access based on owner decision
 #### Graph-based Access Control (GBAC)
 Access based on how data relates to other data
 
-- Using organizational query language
+- Using an organizational query language
 
 #### History-Based Access Control (HBAC)
 Access based on real-time evaluation of a history of activities
+
+- A user declined access to sensitive info because of past behavior
 
 #### Identity-Based Access Control (IBAC)
 Access based on the identity of the user (this access is by the individual, not by group)
@@ -41,12 +43,12 @@ Access based on a user role
 #### Rule-Based Access Control (RAC)
 Access based on a predefined set of rules or access permissions 
 
-- allowing access to specific IP
+- Allowing access to specific IP
 
 #### Responsibility-Based Access Control (ReBAC)
-Access based on the responsibilities assigned to user or users
+Access based on the responsibilities assigned to a user or users
 
-- Data engineer has access to backup management interface
+- Data engineer has access to a backup management interface
 
 ## id
 e1fa805d-5936-4287-9e6d-2a252840792f
