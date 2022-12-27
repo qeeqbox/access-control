@@ -11,7 +11,7 @@ Access based on attributes
 - Environment conditions
 
 #### Discretionary Access Control (DAC)
-Access based on owner decision and it uses an Access Control List (ACL) authorization (ACL is used it to determine who can access resources)
+Access based on owner decision - This modal uses an Access Control List (ACL) authorization (ACL is used it to determine who can access resources)
 
 - The data owner of an organization determines the level of access
 
